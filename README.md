@@ -19,11 +19,11 @@ Purpose: Demonstrate a 100% correct submission for the C++ Hello World program.
 
 Instructions: 
 
-- [ ] 0. Fork this repository.  
-- [ ] 1. Modify main.cpp by uncommenting the code to output "hello, world".  
-- [ ] 2. Build and run the program.  
-- [ ] 3. Update this README.md file.  
-- [ ] 4. Clean the project.  
+- [C] 0. Fork this repository.  
+- [C] 1. Modify main.cpp by uncommenting the code to output "hello, world".  
+- [C] 2. Build and run the program.  
+- [C] 3. Update this README.md file.  
+- [C] 4. Clean the project.  
 - [ ] 5. Commit your changes.  
 - [ ] 6. Push your changes to your repository. 
 - [ ] 7. Perform a Pull Request (PR). 
