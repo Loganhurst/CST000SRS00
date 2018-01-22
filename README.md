@@ -2,9 +2,9 @@
 Hello World
 
 
-Class ID: *Pokemon*
+Class ID: Hippopotas
 
-SRS ID: *CST???SRS00*
+SRS ID: CST126 SRS00
 
 Unresolved Issues:  None. 
 
